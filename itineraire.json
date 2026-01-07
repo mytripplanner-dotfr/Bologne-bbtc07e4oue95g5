@@ -1,0 +1,134 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍝",
+  "titre": "Escapade gourmande et relaxante à Bologne",
+  "budget_total": "Environ 500-550 €/personne",
+  "duree": "2 jours",
+  "temps_vol": "1h40 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et douce immersion bolognaise",
+      "legende": "Flânez sous les arcades emblématiques de Bologne, imprégnez-vous de l'atmosphère médiévale et savourez une première dégustation locale pour une entrée en matière tout en douceur.",
+      "lieu": "Bologne",
+      "activites": [
+        "🛬 <strong>Arrivée à Bologne</strong>: Transfert de l'aéroport au centre-ville.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Déposez vos bagages et rafraîchissez-vous avant de partir à la découverte.",
+        "🚶‍♀️ <strong>Balade sous les Portiques et Piazza Maggiore</strong>: Promenez-vous sous les célèbres portiques de la ville, classés à l'UNESCO, et admirez la majestueuse Piazza Maggiore, cœur battant de Bologne.",
+        "🍝 <strong>Dîner relaxant dans une trattoria</strong>: Savourez un authentique plat de pâtes fraîches dans une trattoria typique, pour une première immersion culinaire."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Piazza Maggiore, Bologna",
+          "categorie": "Place",
+          "coords": { "lat": 44.4938, "lng": 11.3426 }
+        },
+        {
+          "nom_recherche": "Portiques de Bologne",
+          "categorie": "Architecture",
+          "coords": { "lat": 44.4945, "lng": 11.3430 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Les Portiques",
+          "texte": "Bologne est surnommée la \"ville aux 40 km d'arcades\". Ces portiques offrent un abri bienvenu contre la pluie ou le soleil, et sont parfaits pour une balade relaxante."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Détente, saveurs et patrimoine caché",
+      "legende": "Explorez les marchés colorés, offrez-vous un moment de sérénité dans un lieu historique et terminez par une promenade apaisante, pour une journée équilibrée entre découvertes et quiétude.",
+      "lieu": "Bologne",
+      "activites": [
+        "🛍️ <strong>Exploration gourmande du Quadrilatero</strong>: Flânez dans le quartier historique du Quadrilatero, un dédale de ruelles où se trouvent les plus anciennes échoppes de produits frais, fromages et charcuteries. Idéal pour un déjeuner léger et savoureux.",
+        "📚 <strong>Visite de l'Archiginnasio</strong>: Découvrez l'ancienne université de Bologne, avec son magnifique théâtre anatomique et sa bibliothèque ornée de blasons. Un lieu paisible et riche en histoire.",
+        "🌳 <strong>Promenade aux Giardini Margherita</strong>: Profitez d'une balade douce dans le plus grand parc public de Bologne. Un havre de paix pour se détendre et observer la vie locale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Quadrilatero, Bologna",
+          "categorie": "Marché historique",
+          "coords": { "lat": 44.4947, "lng": 11.3440 }
+        },
+        {
+          "nom_recherche": "Archiginnasio di Bologna",
+          "categorie": "Monument historique",
+          "coords": { "lat": 44.4929, "lng": 11.3428 }
+        },
+        {
+          "nom_recherche": "Giardini Margherita, Bologna",
+          "categorie": "Parc",
+          "coords": { "lat": 44.4840, "lng": 11.3520 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil gourmand",
+          "texte": "Dans le Quadrilatero, n'hésitez pas à goûter aux spécialités locales directement chez les producteurs. C'est l'endroit idéal pour un aperitivo authentique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 233 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 20 €/pers (transferts aéroport + bus locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 135 €/pers (2 déjeuners, 2 dîners, 1 petit-déjeuner)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 100 €/pers (1 nuit en hôtel 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 20 €/pers (entrées sites)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai-Juin", "symbole": "☀️" },
+    { "titre": "Septembre-Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Au printemps et en automne, les températures sont douces (15-25°C). Prévoir des couches et un parapluie en cas d'averses.", "symbole": "🍁" },
+    { "titre": "L'euro est la monnaie. Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le centre de Bologne est très agréable à explorer à pied. Des bus locaux (Tper) desservent bien la ville et les environs.", "symbole": "🚌" },
+    { "titre": "La langue officielle est l'italien. L'anglais est parlé dans les zones touristiques, mais quelques mots d'italien seront appréciés.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "La Finestrella de Via Piella",
+      "texte": "À Bologne, une petite fenêtre discrète sur la Via Piella offre une vue inattendue sur un canal caché, rappelant la \"petite Venise\" de la ville. Un secret bien gardé à découvrir !"
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Les Trois Flèches de la Casa Isolani",
+      "texte": "Sur la façade en bois de la Casa Isolani, près de la Strada Maggiore, on peut apercevoir trois flèches plantées. La légende raconte qu'elles furent tirées par des assassins manquant leur cible, ou par des archers pour distraire une femme et permettre un enlèvement."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍝",
+      "titre": "Tagliatelle al Ragù",
+      "description": "Oubliez les \"spaghetti bolognaise\" ! Ici, ce sont des tagliatelles fraîches, servies avec une sauce à la viande mijotée pendant des heures, un véritable délice."
+    },
+    {
+      "symbole": "🥟",
+      "titre": "Tortellini in Brodo",
+      "description": "De minuscules pâtes farcies, souvent servies dans un bouillon de chapon. Un plat réconfortant et emblématique des fêtes, mais délicieux toute l'année."
+    },
+    {
+      "symbole": "🍖",
+      "titre": "Mortadella",
+      "description": "Cette charcuterie rose et parfumée, parsemée de pistaches et de lardons, est la fierté de Bologne. À déguster en fines tranches, seule ou dans un panino."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-BLQ/2026-05-15/2026-05-17", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Bologna Welcome", "url": "https://www.bolognawelcome.com/fr/", "symbole": "📘" },
+    { "legende": "Transports locaux", "titre": "Tper (bus Bologne)", "url": "https://www.tper.it/en", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Bologne", "url": "https://www.ilmeteo.it/meteo/Bologna", "symbole": "🌤️" }
+  ]
+}
